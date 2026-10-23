@@ -1,0 +1,10 @@
+{
+  "name": "CampusMate AI — Your Intelligent Campus & Study Companion",
+  "description": "AI-powered college student companion featuring smart attendance & bunk calculator, exam study planning, unified campus updates inbox, persistent reminders, and Alexa+ voice assistant with MCP 2025-11-25 tools.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
